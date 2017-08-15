@@ -11,9 +11,10 @@ Tested with **Python 3.5.2**
 ## Usage
 
 You can type:
-    `*python SSISVarRenamer.py -h* to get help.`
+    `python SSISVarRenamer.py -h` - to get help.
+    
 To rename variable:
-    `*python SSISVarRenamer.py rename CurrientVarName NewVarName* to rename variable in packages.`
+    `python SSISVarRenamer.py rename CurrientVarName NewVarName` to rename variable in packages.
     
 ## Problems
 
